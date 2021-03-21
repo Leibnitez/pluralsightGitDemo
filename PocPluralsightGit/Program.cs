@@ -6,7 +6,7 @@ namespace PocPluralsightGit
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello first poc!");
+            Console.WriteLine("Hello first poc F!");
         }
     }
 }
